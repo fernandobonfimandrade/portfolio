@@ -3,3 +3,5 @@ cores https://coolors.co/f72585-b5179e-7209b7-560bad-480ca8-3a0ca3-3f37c9-4361ee
 
 Ferramentas utilizadas:
 Photoshop, javascript, css, HTML, git, bootstrap.
+
+preview: https://fernandobonfimandrade.github.io/portfolio/
